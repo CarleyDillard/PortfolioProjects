@@ -1,7 +1,7 @@
 /*
 
 Cleaning Airbnb Data
-Skills used: CTEs, aggregate functions, self-joins, string functions
+Skills used: CTEs, Aggregate Functions, Self-Joins, String Functions, Subqueries
 
 */
  ---------------------------------------------------------------------------------------------------------------------------
